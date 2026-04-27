@@ -1,33 +1,33 @@
 import Image from "next/image"
-import { Camera, Heart, PartyPopper, Package } from "lucide-react"
+import { Camera, Heart, PartyPopper, Beef } from "lucide-react"
 
 const services = [
   {
     icon: Camera,
     title: "Portrait Photography",
     description: "Professional headshots, family portraits, and personal branding photography that captures your unique essence.",
-    image: "/images/portrait-sample.jpg",
+    image: "/MustardSeed-Photos/Portraits/Portrait-main.jpg",
     features: ["Individual Portraits", "Family Sessions", "Professional Headshots", "Creative Concepts"],
   },
   {
     icon: Heart,
-    title: "Wedding Photography",
-    description: "Timeless wedding photography that tells the story of your special day with elegance and emotion.",
-    image: "/images/wedding-sample.jpg",
-    features: ["Full Day Coverage", "Engagement Sessions", "Bridal Portraits", "Album Design"],
+    title: "Creative Work",
+    description: "Editorial shoots, styled sessions, and artistic projects that bring your creative vision to life with a unique flair.",
+    image: "/MustardSeed-Photos/CREATIVE_WORK/creative-main.jpg",
+    features: ["Editorial Shoots", "Artistic Projects", "Conceptual Work", "Studio Sessions"],
   },
   {
     icon: PartyPopper,
     title: "Event Photography",
     description: "Corporate events, celebrations, and gatherings documented with professionalism and artistic flair.",
-    image: "/images/event-sample.jpg",
-    features: ["Corporate Events", "Birthday Parties", "Graduations", "Conferences"],
+    image: "/MustardSeed-Photos/events-mainn.jpg",
+    features: ["Corporate Events", "Birthday Parties", "Graduations", "Conferences", "Matric Dances"],
   },
   {
-    icon: Package,
-    title: "Product Photography",
-    description: "High-quality commercial photography that showcases your products in their best light.",
-    image: "/images/product-sample.jpg",
+    icon: Beef,
+    title: "Food Photography",
+    description: "High-quality commercial photography that showcases your food in their best light.",
+    image: "/MustardSeed-Photos/food-mainn.jpg",
     features: ["E-commerce Ready", "Lifestyle Shots", "Flat Lay", "360° Views"],
   },
 ]

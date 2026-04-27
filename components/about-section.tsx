@@ -17,7 +17,7 @@ export function AboutSection() {
           <div className="relative">
             <div className="relative aspect-[4/5] rounded-lg overflow-hidden">
               <Image
-                src="/images/photographer-portrait.jpg"
+                src="/MustardSeed-Photos/NN-Portrait.jpg"
                 alt="Nhlamulo Nkuna - Professional Photographer"
                 fill
                 className="object-cover"

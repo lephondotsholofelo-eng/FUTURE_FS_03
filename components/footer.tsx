@@ -11,8 +11,8 @@ const navLinks = [
 
 const socialLinks = [
   { icon: Instagram, href: "https://www.instagram.com/mustardseed.stu?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==", label: "Instagram" },
-  { icon: Facebook, href: "#", label: "Facebook" },
-  { icon: Mail, href: "mailto:hello@mustardseedstudio.co.za", label: "Email" },
+  { icon: Facebook, href: "https://www.facebook.com/share/1JJLJCyxkK/", label: "Facebook" },
+  { icon: Mail, href: "mailto:nkunanhlamulo119@gmail.com", label: "Email" },
 ]
 
 export function Footer() {

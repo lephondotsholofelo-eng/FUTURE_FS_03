@@ -4,15 +4,15 @@ import { useState } from "react"
 import Image from "next/image"
 import { cn } from "@/lib/utils"
 
-const categories = ["All", "Portraits", "Weddings", "Events", "Products"]
+const categories = ["All", "Portraits", "Creative Work", "Events", "Food"]
 
 const portfolioItems = [
-  { id: 1, category: "Portraits", image: "/images/portrait-sample.jpg", title: "Natural Light Portrait" },
-  { id: 2, category: "Weddings", image: "/images/wedding-sample.jpg", title: "Garden Wedding" },
-  { id: 3, category: "Events", image: "/images/event-sample.jpg", title: "Corporate Gala" },
-  { id: 4, category: "Products", image: "/images/product-sample.jpg", title: "Luxury Cosmetics" },
-  { id: 5, category: "Portraits", image: "/images/photographer-portrait.jpg", title: "Professional Headshot" },
-  { id: 6, category: "Weddings", image: "/images/hero-photography.jpg", title: "Studio Session" },
+  { id: 1, category: "Portraits", image: "/MustardSeed-Photos/Portraits/_DSC0736.jpg", title: "Model Portrait" },
+  { id: 2, category: "Creative Work", image: "MustardSeed-Photos/CREATIVE_WORK/_DSC0126.jpg", title: "Editorial Shoot" },
+  { id: 3, category: "Events", image: "/MustardSeed-Photos/EVENTS/_DSC0451.jpg", title: "21st Birthday Party" },
+  { id: 4, category: "Food", image: "/MustardSeed-Photos/FOOD/1000130662.jpg", title: "Food Content" },
+  { id: 5, category: "Portraits", image: "/MustardSeed-Photos/PORTRAITS/_DSC1525 (4).jpg", title: "Professional Headshot" },
+  { id: 6, category: "Creative Work", image: "/MustardSeed-Photos/CREATIVE_WORK/_DSC0154.jpg", title: "Studio Session" },
 ]
 
 export function PortfolioSection() {

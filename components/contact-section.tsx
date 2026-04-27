@@ -8,14 +8,14 @@ import { Field, FieldGroup, FieldLabel } from "@/components/ui/field"
 import { Mail, Phone, MapPin, Instagram, Facebook, Send } from "lucide-react"
 
 const contactInfo = [
-  { icon: Mail, label: "Email", value: "hello@mustardseedstudio.co.za" },
-  { icon: Phone, label: "Phone", value: "+27 12 345 6789" },
-  { icon: MapPin, label: "Location", value: "Johannesburg, South Africa" },
+  { icon: Mail, label: "Email", value: "nkunanhlamulo119@gmail.com" },
+  { icon: Phone, label: "Phone", value: "+27 65 929 6074" },
+  { icon: MapPin, label: "Location", value: "Pretoria, South Africa" },
 ]
 
 const socialLinks = [
   { icon: Instagram, href: "https://www.instagram.com/mustardseed.stu?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==", label: "Instagram" },
-  { icon: Facebook, href: "#", label: "Facebook" },
+  { icon: Facebook, href: "https://www.facebook.com/share/1JJLJCyxkK/", label: "Facebook" },
 ]
 
 export function ContactSection() {
