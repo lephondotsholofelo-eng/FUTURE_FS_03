@@ -2,8 +2,8 @@ import Image from "next/image"
 import { Award, Clock, Users, Camera } from "lucide-react"
 
 const stats = [
-  { icon: Camera, value: "500+", label: "Productions" },
-  { icon: Users, value: "200+", label: "Models Developed" },
+  { icon: Camera, value: "100+", label: "Productions" },
+  { icon: Users, value: "200+", label: "Photoshoots Developed" },
   { icon: Award, value: "Agency", label: "Ready Work" },
   { icon: Clock, value: "Full", label: "Creative Support" },
 ]

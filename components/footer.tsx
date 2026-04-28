@@ -24,7 +24,7 @@ export function Footer() {
           <div>
             <h3 className="text-2xl font-semibold mb-4">MustardSeedStudio</h3>
             <p className="text-primary-foreground/70 leading-relaxed mb-6">
-              Professional photography services capturing life&apos;s most precious moments. Based in Johannesburg, South Africa.
+              Professional photography services capturing life&apos;s most precious moments. Based in Pretoria, South Africa.
             </p>
             <div className="flex gap-4">
               {socialLinks.map((social) => (
