@@ -6,7 +6,7 @@ const services = [
     icon: Camera,
     title: "Portrait Photography",
     description: "Professional headshots, family portraits, and personal branding photography that captures your unique essence.",
-    image: "/MustardSeed-Photos/CREATIVE_WORK/Creative-main.jpg", 
+    image: "/MustardSeed-Photos/CREATIVE_WORK/Portrait-main.jpg", 
     features: ["Individual Portraits", "Family Sessions", "Professional Headshots", "Creative Concepts"],
   },
   {
