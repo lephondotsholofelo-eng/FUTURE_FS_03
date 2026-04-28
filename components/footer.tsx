@@ -61,9 +61,9 @@ export function Footer() {
             <h4 className="text-lg font-semibold mb-4">Our Services</h4>
             <ul className="flex flex-col gap-3 text-primary-foreground/70">
               <li>Portrait Photography</li>
-              <li>Wedding Photography</li>
+              <li>Creative Photography</li>
               <li>Event Photography</li>
-              <li>Product Photography</li>
+              <li>Food Photography</li>
             </ul>
           </div>
         </div>
