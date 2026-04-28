@@ -13,7 +13,7 @@ const services = [
     icon: Heart,
     title: "Creative Work",
     description: "Editorial shoots, styled sessions, and artistic projects that bring your creative vision to life with a unique flair.",
-    image: "/MustardSeed-Photos/CREATIVE_WORK/creative-main.jpg",
+    image: "/MustardSeed-Photos/CREATIVE_WORK/Creative-main.jpg",
     features: ["Editorial Shoots", "Artistic Projects", "Conceptual Work", "Studio Sessions"],
   },
   {
