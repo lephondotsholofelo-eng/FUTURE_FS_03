@@ -40,6 +40,7 @@ export function ServicesSection() {
         <div className="text-center mb-16 md:mb-20">
           <p className="text-accent uppercase tracking-[0.3em] text-sm mb-4">
             What We Offer
+            
           </p>
           <h2 className="text-3xl md:text-5xl font-light text-foreground mb-6">
             Our Photography <span className="font-semibold italic">Services</span>
